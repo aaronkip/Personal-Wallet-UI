@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_weather/config/data.dart';
-import 'package:flutter_weather/widgets/cardSection.dart';
-import 'package:flutter_weather/widgets/expenses.dart';
-import 'package:flutter_weather/widgets/header.dart';
+import 'package:flutter_wallet/config/data.dart';
+import 'package:flutter_wallet/widgets/cardSection.dart';
+import 'package:flutter_wallet/widgets/expenses.dart';
+import 'package:flutter_wallet/widgets/header.dart';
 
 void main() {
   runApp(MaterialApp(

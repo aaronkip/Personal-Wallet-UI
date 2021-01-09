@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_weather/config/data.dart';
+import 'package:flutter_wallet/config/data.dart';
 
 class CardDetails extends StatelessWidget {
   @override

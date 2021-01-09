@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_weather/config/data.dart';
-import 'package:flutter_weather/widgets/pieChart.dart';
+import 'package:flutter_wallet/config/data.dart';
+import 'package:flutter_wallet/widgets/pieChart.dart';
 
 class ExpenseSection extends StatelessWidget {
   @override
